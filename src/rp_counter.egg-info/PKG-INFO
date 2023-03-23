@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: rp-counter
+Version: 1.0.0
+Summary: A simple package used for counting words contained within specified characters
+Home-page: https://github.com/Sir-Badger/word_counter
+Author: Petr Verner
+Requires-Python: >=3.10
+Description-Content-Type: text/markdown
+License-File: LICENSE.md
+
+yooo, we ball
