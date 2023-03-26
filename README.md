@@ -2,13 +2,11 @@
 This python project is a simple algorythm which counts words contained within specified special characters. It's purpose is to provide a robust way to determine the amount of words of roleplay in a message in order to determine experience points for a discord bot. The algorythm provides some customizeability, but it was made with this specific use in mind so it might not be perfect for other uses.
 
 ## Usage & installation
-In order to use rp counter, you will need run the following command using pip:
+In order to use rp counter, you just need to include the folder in the same folder as your main program.
 
-```pip install --upgrade rp_counter```
-
-Once installed, using this package is as simple as using it's `count` function. To demonstrate, here's a simple python program utilizing the package:
+Using this project is as simple as using it's `count` function. To demonstrate, here's a simple python program utilizing the package:
 ```py
-import rp_counter as rp # import the package
+from rp_word_counter import rp_word_counter as rp # import the package
 
 # example message
 message="""
